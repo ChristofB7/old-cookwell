@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1070581855599",
+    "firebase_url": "https://cookwell-b556d.firebaseio.com",
+    "project_id": "cookwell-b556d",
+    "storage_bucket": "cookwell-b556d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070581855599:android:11ec889a54a4277ef7e49a",
+        "android_client_info": {
+          "package_name": "com.recette.cookwell"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1070581855599-c1p1mjnpljg449uafhkk5a1ot7rhc0fa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cookwell",
+            "certificate_hash": "75c9956a86f81eb9aef6a4e9b77f5d84b4197f22"
+          }
+        },
+        {
+          "client_id": "1070581855599-uqonsr4943os4lhhbkmr1lqklu6qgao2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYJVuW9ZJttPv_k9d_BecnbKMXE70ZDVA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1070581855599-uqonsr4943os4lhhbkmr1lqklu6qgao2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

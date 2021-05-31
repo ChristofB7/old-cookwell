@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">CookWell</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="facebook_app_id">2452434591662017</string>
+    <string name="fb_login_protocol_scheme">fb2452434591662017</string>
+    <string name="register_with_email">Register with Email</string>
+    <string name="sign_in_with_email">Sign in with Email</string>
+    <string name="sign_in_with_google">Sign in with Google</string>
+    <string name="sign_in_with_facebook">Sign in with Facebook</string>
+    <string name="settings">Settings</string>
+    <string name="logout">Logout</string>
+    <string name="pantry">Pantry</string>
+    <string name="recipes">Recipes</string>
+    <string name="home">Home</string>
+    <string name="groceries">Groceries</string>
+    <string name="registerButton">Register</string>
+    <string name="loginButton">Already have an account? Login</string>
+    <string name="registerAccount">Register a New Account</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="logo">Logo</string>
+    <string name="password">Password</string>
+    <string name="checkbox">Pantry Item</string>
+    <string name="removeItem">-</string>
+    <string name="notes">Notes</string>
+    <string name="addRecipe">ADD</string>
+    <string name="search_recipes_hint">Search Recipes</string>
+    <string name="add_an_item">Add Item</string>
+    <string name="new_grocery_item">New Grocery Item</string>
+    <string name="see_whats_at_home">" See what\'s at home  "</string>
+    <string name="done_shopping">"  Done Shopping  "</string>
+    <string name="new_pantry_item">New Pantry Item</string>
+    <string name="addPantryItem">Add</string>
+    <string name="check_marked_items_for_recipe">Check Marked Items for Recipe</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="directions">Directions</string>
+    <string name="continue_without_an_account">Continue without an account</string>
+    <string name="favorites">" Favorites  "</string>
+    <string name="whatget">" What You Need to Get  "</string>
+
+
+    <string-array name="sorts">
+        <item>Sort by Name</item>
+        <item>Sort by Cook Time</item>
+        <item>Sort by Serving Size</item>
+    </string-array>
+
+</resources>
